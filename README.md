@@ -1,6 +1,6 @@
 <!-- Hero Section with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Rohan+Kumar+Pathak;Full-Stack+Developer;Building+Scalable+Web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Rohan+Kumar+Pathak;Full-Stack+Developer;Building+Scalable+Web" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
 ### 👋 Hi, I'm Rohan Kumar Pathak
 
 🚀 Computer Science Undergraduate | Full Stack Developer | Generative AI Enthusiast.
+
 I'm a passionate software developer who enjoys building scalable web applications, backend systems, and AI-powered solutions. My primary focus is on creating real-world projects while continuously learning modern technologies that solve practical problems.
 Currently, I'm exploring the intersection of Software Engineering and Generative AI, building applications with LangChain, Hugging Face, LLMs, Prompt Engineering, and Streamlit alongside developing robust MERN Stack applications.
 
