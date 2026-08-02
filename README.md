@@ -21,13 +21,13 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
 ---
 ### 💻 What I Do:
 
-  🌐 Build Full Stack Web Applications using the MERN Stack
-  ⚙️ Design secure REST APIs with JWT Authentication
-  🗄️ Work with MongoDB & MySQL databases
-  🤖 Develop AI-powered applications using LangChain and Large Language Models
-  🧠 Learn Prompt Engineering, Embeddings, RAG concepts, and LLM integrations
-  📚 Solve Data Structures & Algorithms problems regularly
-  🚀 Deploy and maintain production-ready applications
+  🌐 Build Full Stack Web Applications using the MERN Stack <br>
+  ⚙️ Design secure REST APIs with JWT Authentication<br>
+  🗄️ Work with MongoDB & MySQL databases<br>
+  🤖 Develop AI-powered applications using LangChain and Large Language Models<br>
+  🧠 Learn Prompt Engineering, Embeddings, RAG concepts, and LLM integrations<br>
+  📚 Solve Data Structures & Algorithms problems regularly<br>
+  🚀 Deploy and maintain production-ready applications<br>
 
 ---
 
