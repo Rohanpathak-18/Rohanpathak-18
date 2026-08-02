@@ -94,6 +94,6 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
 <p align="left">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?
-    user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" 
+    "user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" 
   />
 </p>
