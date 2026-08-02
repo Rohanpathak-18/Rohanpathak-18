@@ -13,7 +13,7 @@
 ### 💫 About Me
 ### 👋 Hi, I'm Rohan Kumar Pathak
 
-🚀 Computer Science Undergraduate | Full Stack Developer | Generative AI Enthusiast
+### 🚀 Computer Science Undergraduate | Full Stack Developer | Generative AI Enthusiast.
 I'm a passionate software developer who enjoys building scalable web applications, backend systems, and AI-powered solutions. My primary focus is on creating real-world projects while continuously learning modern technologies that solve practical problems.
 Currently, I'm exploring the intersection of Software Engineering and Generative AI, building applications with LangChain, Hugging Face, LLMs, Prompt Engineering, and Streamlit alongside developing robust MERN Stack applications.
 
