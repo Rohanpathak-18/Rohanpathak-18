@@ -92,9 +92,21 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
   <img src="https://img.shields.io/badge/Email-rohanpathak9813@gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=FF69B4" />
 </p>
 
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"
-    alt="GitHub Streak"
-  />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rohanpathak-18&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" height="170" /> 
+  </p>
+<hr>
+<p align ="center">
+    <img src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=radical&hide_border=true" height="170" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohanpathak-18&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
+</p><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohanpathak-18&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 </p>
