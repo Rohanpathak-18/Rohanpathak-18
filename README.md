@@ -11,7 +11,7 @@
 ---
 
 ### 💫 About Me
-👋 Hi, I'm Rohan Kumar Pathak
+### 👋 Hi, I'm Rohan Kumar Pathak
 
 🚀 Computer Science Undergraduate | Full Stack Developer | Generative AI Enthusiast
 I'm a passionate software developer who enjoys building scalable web applications, backend systems, and AI-powered solutions. My primary focus is on creating real-world projects while continuously learning modern technologies that solve practical problems.
@@ -92,8 +92,8 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?
-    "user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" 
+  <img
+    src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
   />
 </p>
