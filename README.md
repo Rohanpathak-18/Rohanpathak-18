@@ -1,6 +1,6 @@
 <!-- Hero Section with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Rohan+Pathak;Full-Stack+Developer;Building+Scalable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Rohan+Kumar+Pathak;Full-Stack+Developer;Building+Scalable+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -92,7 +92,8 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" 
+  <img
+    src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=dark&background=0A192F&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
   />
 </p>
