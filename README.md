@@ -99,8 +99,8 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
   <img src="https://github-readme-stats.shion.dev/api?username=Rohanpathak-18&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" height="170" /> 
   </p>
 <hr>
-<p align ="center">
-    <img src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=radical&hide_border=true" height="170" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <hr>
 <p align="center">
