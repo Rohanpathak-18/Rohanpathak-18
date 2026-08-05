@@ -119,7 +119,7 @@ Currently, I'm exploring the intersection of Software Engineering and Generative
   </p>
 <hr>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohanpathak-18&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohanpathak-18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <hr>
 <p align="center">
